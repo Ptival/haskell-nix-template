@@ -51,7 +51,7 @@ in
 projectPackage.shellFor {
 
   packages = ps: with ps; [
-    nix-playground
+    PROJECT
   ];
 
   withHoogle = true;
