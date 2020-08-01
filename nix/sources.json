@@ -1,40 +1,4 @@
 {
-    "all-cabal-hashes": {
-        "branch": "current-hackage",
-        "description": "A repository containing all cabal files, with added metadata for package hashes",
-        "homepage": null,
-        "owner": "commercialhaskell",
-        "repo": "all-cabal-hashes",
-        "rev": "06fa48400f41f5756a2477c2ae0aa2b436f72b1a",
-        "sha256": "1c0lvjvd7jp20q2ihjwzz0rw2bp2plqbn10mrj8ljy9a90pri5pf",
-        "type": "tarball",
-        "url": "https://github.com/commercialhaskell/all-cabal-hashes/archive/06fa48400f41f5756a2477c2ae0aa2b436f72b1a.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    },
-    "all-hies": {
-        "branch": "master",
-        "description": "Cached Haskell IDE Engine Nix builds for all GHC versions",
-        "homepage": "",
-        "owner": "infinisil",
-        "repo": "all-hies",
-        "rev": "09ba836904fa290b5e37d5403150ea0c921661fb",
-        "sha256": "0qbjqv1fkhkx1cffqybz1mfks1jphh0vh3zd8ad2qd6lch4gyys4",
-        "type": "tarball",
-        "url": "https://github.com/infinisil/all-hies/archive/09ba836904fa290b5e37d5403150ea0c921661fb.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    },
-    "ghcide": {
-        "branch": "7e895cfa53260b41996df707baec496a8f2c75dc",
-        "description": "A library for building Haskell IDE tooling",
-        "homepage": "",
-        "owner": "bubba",
-        "repo": "ghcide",
-        "rev": "7e895cfa53260b41996df707baec496a8f2c75dc",
-        "sha256": "1kj2i86mkaxgxlrbmv2d24mch7hywgcy2n61z8paj21chncs1j5w",
-        "type": "tarball",
-        "url": "https://github.com/bubba/ghcide/archive/7e895cfa53260b41996df707baec496a8f2c75dc.tar.gz",
-        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    },
     "hackage.nix": {
         "branch": "master",
         "description": "Automatically generated Nix expressions for Hackage",
